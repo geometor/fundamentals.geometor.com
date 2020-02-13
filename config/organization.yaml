@@ -1,5 +1,5 @@
-name: photon
-contact: "**SHINE**\r\n\r\n**YOUR**\r\n\r\n**LIGHT**"
+name: Geometor
+contact: a GEOMETOR project
 facebook: phi.architect
 twitter: phi_am_i
 linkedin: iamphi
@@ -7,3 +7,29 @@ youtube: UCYzRQS16EBmsbKuyKMFHSFQ
 github: photon-platform
 owa_siteid: d1039be9b72f9820624ec26ad1c2722a
 google_search: bYQ6W9XS6CPkwqqn-S3jJUoVhwgwF7U6YHQrWQlkwgE
+description: null
+org_type: Organization
+url: null
+telephone: null
+tracking:
+  owa_siteid: null
+  google_search: null
+geographic:
+  latitude: null
+  longitude: null
+address:
+  streetAddress: null
+  postOfficeBoxNumber: null
+  addressLocality: null
+  addressRegion: OR
+  postalCode: null
+  addressCountry: US
+social:
+  facebook: null
+  twitter: null
+  linkedin: null
+  youtube: null
+  github: null
+logo: null
+image: null
+motto: 'a GEOMETOR project'

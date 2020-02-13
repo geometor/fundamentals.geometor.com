@@ -2,9 +2,13 @@ enabled: true
 route: /admin
 cache_enabled: false
 theme: grav
-logo_text: Triangle Geometry
+logo_text: Fundamentals
+body_classes: null
 content_padding: true
 twofa_enabled: true
+log_viewer_files:
+  - grav
+  - email
 sidebar:
   activate: tab
   hover_delay: 100
@@ -19,10 +23,13 @@ widgets:
   dashboard-pages: true
 pages:
   show_parents: folder
+  show_modular: true
+  parents_levels: null
 session:
   timeout: 1800
 warnings:
   delete_page: true
+  secure_delete: false
 edit_mode: normal
 frontend_preview_target: inline
 show_github_msg: true
@@ -52,3 +59,6 @@ pagemedia:
   res_max_width: 0
   res_max_height: 0
   resize_quality: 0.8
+show_beta_msg: null
+hide_page_types: null
+hide_modular_page_types: null
