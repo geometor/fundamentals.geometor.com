@@ -1,5 +1,5 @@
 ---
-title: Albert's Parabola
+title: d'Alembert
 subtitle:
 author:
 collection:
@@ -11,8 +11,10 @@ content:
 taxonomy:
   tag:
   category:
+gallery:
+  show: true
 ---
 
-What is the distance `d` between the parabola and a point `M` along the directrix?
+
 
 ===
