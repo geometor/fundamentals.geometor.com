@@ -9,8 +9,8 @@ collection:
 content:
   items: '@self.children'
 taxonomy:
-  tag:
-  category:
+    photon:
+        - header
 ---
 
 plus relationship of triangles to circles
