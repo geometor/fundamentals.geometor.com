@@ -1,35 +1,34 @@
 name: Geometor
 contact: a GEOMETOR project
-facebook: phi.architect
-twitter: phi_am_i
-linkedin: iamphi
+facebook: phiarchitect
+twitter: phi_architect
+linkedin: phiarchitect
 youtube: UCYzRQS16EBmsbKuyKMFHSFQ
-github: photon-platform
-owa_siteid: d1039be9b72f9820624ec26ad1c2722a
-google_search: bYQ6W9XS6CPkwqqn-S3jJUoVhwgwF7U6YHQrWQlkwgE
-description: null
+github: geometor
+google_search: 
+owa:
+  siteId: 882d08be7f9e3d8a56342187c1a26a23
+  trackPageView: true
+  trackCLicks: false
+  trackDomStream: false
+description: 
 org_type: Organization
-url: null
-telephone: null
-tracking:
-  owa_siteid: null
-  google_search: null
 geographic:
-  latitude: null
-  longitude: null
+  latitude: 
+  longitude: 
 address:
-  streetAddress: null
-  postOfficeBoxNumber: null
-  addressLocality: null
+  streetAddress: 
+  postOfficeBoxNumber: 
+  addressLocality: 
   addressRegion: OR
-  postalCode: null
+  postalCode: 
   addressCountry: US
 social:
-  facebook: null
-  twitter: null
-  linkedin: null
-  youtube: null
-  github: null
-logo: null
-image: null
+  facebook: 
+  twitter: 
+  linkedin: 
+  youtube: 
+  github: 
+logo: 
+image: 
 motto: 'a GEOMETOR project'
