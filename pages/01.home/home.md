@@ -1,17 +1,17 @@
 ---
-title: Welcome
-subtitle: 'photon ✴ Starter Site'
-author: /home
-content:
-    items: '@root.children'
-child_type: article
+title: Fundamentals
+subtitle: a GEOMETOR project
 menu: Home
+content:
+    title: Top Sections
+    items: '@root.children'
+taxonomy:
+    photon:
+        - showcase
 ---
 
-- This is a starter skeleton for the<br>photon ✴ PLATFORM
+Works from the notebooks of Fred Seelig
 
 
 ===
 
-You can find instructions for setup up this site on the github repo:
-https://github.com/photon-platform/photon
