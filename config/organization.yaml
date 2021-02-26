@@ -1,10 +1,13 @@
-name: Geometor
-contact: a GEOMETOR project
-facebook: phiarchitect
-twitter: phi_architect
-linkedin: phiarchitect
-youtube: UCYzRQS16EBmsbKuyKMFHSFQ
-github: geometor
+name: GEOMETOR Fundamentals
+motto: a GEOMETOR project
+email: phi@geometor.com
+logo: 
+social:
+  facebook: phiarchitect
+  twitter: phi_architect
+  linkedin: phiarchitect
+  youtube: UCYzRQS16EBmsbKuyKMFHSFQ
+  github: geometor
 google_search: 
 owa:
   siteId: 882d08be7f9e3d8a56342187c1a26a23
@@ -23,12 +26,4 @@ address:
   addressRegion: OR
   postalCode: 
   addressCountry: US
-social:
-  facebook: 
-  twitter: 
-  linkedin: 
-  youtube: 
-  github: 
-logo: 
 image: 
-motto: 'a GEOMETOR project'

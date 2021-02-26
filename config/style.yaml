@@ -2,20 +2,20 @@ color:
   key:
     hue: 44
   1:
-    hueOffset: 0
+    hueOffset: 120
   2:
-    hueOffset: 210
-  saturation: 44
+    hueOffset: -150
+  saturation: 33
   lightness:
-    lighter: 77
+    lighter: 75
     light: 66
     mid: 44
     dark: 33
-    darker: 11
-  background: 'hsla(255,100%,100%,.5)'
-  foreground: '#111'
+    darker: 19
+  foreground: '#222'
+  background: hsla(255, 100%, 100%, .5)
 font: Lato
-font_display: Playfair+Display
+font_display: Montserrat
 font_code: monospace
 header_height: 9em
 fitz: .5em
