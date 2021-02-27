@@ -1,16 +1,21 @@
 ---
-title: Fundamentals
-subtitle: a GEOMETOR project
+title: GEOMETOR Fundamentals
+subtitle: A collection of fundamental geometric relationships
 menu: Home
 content:
     title: Top Sections
-    items: '@root.children'
+    items: 
+        '@taxonomy.photon': header
+    order:
+        by: default
+        dir: asc
 taxonomy:
     photon:
         - showcase
 ---
 
-Works from the notebooks of Fred Seelig
+Inspired by the works of Fred Seelig
+
 
 
 ===
