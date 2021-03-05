@@ -30,6 +30,9 @@ form:
             type: textarea
             validate:
                 required: true
+        - 
+            name: confirmation
+            type: honeypot
     buttons:
         -
             type: submit
@@ -65,8 +68,6 @@ We are
 
 We look forward to hearing from you
 
-
 ===
 
-11umiph!
 FIll out the form below and we will get in touch as soon as possible
