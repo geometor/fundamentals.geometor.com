@@ -1,6 +1,6 @@
 ---
 title: Projects
-subtitle: activities around documenting the fundamentals of constructive geometry
+subtitle: Activities around documenting the fundamentals of constructive geometry
 date: 02/26/2021
 author: /phi
 content:

@@ -1,6 +1,6 @@
 ---
 title: Log
-subtitle: 'latest news and announcements'
+subtitle: Latest updates on the project
 author: /home
 content:
     title: Posts

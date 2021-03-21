@@ -20,3 +20,5 @@ Inspired by the works of Fred Seelig
 
 ===
 
+This project began with the notebooks of Fred Seelig, A true Rocket Scientist who has a love for constructive geometry
+

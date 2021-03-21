@@ -1,6 +1,6 @@
 ---
 title: Mission
-subtitle: Building Knowledge of Fundamentals of Constructive Geometry
+subtitle: Build a Knowledge Archive of Fundamental Relationships of Constructive Geometry
 date: 02/26/2021
 author: /phi
 content:
@@ -14,7 +14,6 @@ taxonomy:
 ---
 
 
-
 ===
 
-
+This project currently has scans of over 350
