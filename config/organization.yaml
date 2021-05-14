@@ -10,6 +10,7 @@ social:
   github: geometor
 google_search: 
 owa:
+  siteUrl: 'https://logs.geometor.com/'
   siteId: 882d08be7f9e3d8a56342187c1a26a23
   trackPageView: true
   trackCLicks: false
