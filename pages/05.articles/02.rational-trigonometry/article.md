@@ -1,5 +1,5 @@
 ---
-title: rational trigonometry
+title: Rational Trigonometry
 subtitle: concepts for the study of proportions in the field
 date: 03/28/2021
 author: /phi
